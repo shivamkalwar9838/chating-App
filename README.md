@@ -84,8 +84,6 @@ class SplashScreen extends StatelessWidget {
 }
 
 
-LoginScreen and SignupScreen next?
-
 Or the full app UI in one go?
 
 
