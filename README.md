@@ -87,7 +87,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
----
+
 
 🧑‍💻 Developed by [Shivam Kalwar](https://github.com/shivamkalwar9838)
 
