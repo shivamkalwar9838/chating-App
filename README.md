@@ -82,10 +82,3 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-
-
-Or the full app UI in one go?
-
-
-
-Let me know how you'd like to proceed — piece by piece (easier to follow) or ever
